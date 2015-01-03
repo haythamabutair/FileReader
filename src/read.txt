@@ -1,0 +1,3936 @@
+
+<html>
+
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+
+<meta name="verify-v1" content="cOD8ebfkil4qHKVynBHa9MfkEIw2BnpWZUczCmtVsNU=" >
+
+
+
+<title>Georgia Press Association Public Notice Website - Legals, foreclosures, adoptions, public sales, etc. </title>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta property="og:title" content=""/>
+
+<meta property="og:type" content="article"/>
+
+
+
+<meta property="og:image" content="http://georgiapublicnotice.com/images/article.jpg"/>
+
+
+
+
+
+
+
+<meta name="keywords" content="Adoptions, Alcoholic, Beverage, Annual, Reports, Condemnations, Construction/Service, Bids, Corporations, and, Business, Organizations, Debtors, and, Creditors, Divorces, Election, Notices, Family, Children, Youth, Foreclosures, Forfeiture/Seizure, Local, Governmen" />
+
+
+
+
+
+
+
+<meta name="description" content="Public Notice website for all Adoptions, Alcoholic Beverage, Annual Reports, Condemnations, Construction/Service Bids, Corporations and Business Organizations, Debtors and Creditors, Divorces, Election Notices, Family, Children, Youth, Foreclosures, Forfeiture/Seizure, Local Government, Miscellaneous, Name Changes, Public Hearings, Public Sales/Auctions, Probate Notices, Sheriff's/Marshal's Sales, Tax Sales Public Notices">
+
+
+
+
+
+
+
+<link id="default_facebook_image" rel="image_src" href="/images/article.jpg" />
+
+
+
+
+
+
+
+
+
+<meta name="robots" content="noarchive">
+
+<link href="http://d2uh5w9wm14i0w.cloudfront.net/templates/publication_professional/stylesheets/global-cssball.css" media="all" rel="stylesheet" type="text/css" /> <link href="http://d2uh5w9wm14i0w.cloudfront.net/sites/301/stylesheets/georgiapublicnotice.com.css" media="all" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript" charset="utf-8" src="http://d2uh5w9wm14i0w.cloudfront.net/javascripts/jsball.js"></script>
+
+
+
+<!--@ @content :label => javascript_and_css, :naked => true, :bare => true@ @-->
+
+
+
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" charset="utf-8" src="http://analytics.radiatemedia.com/javascripts/analytics.js?v=3"></script><script type="text/javascript">moment.lang('en'); window.radiateMedia.updateDates(true);</script></head>
+
+
+
+<body>
+
+
+
+<div id="pt1_page">
+
+<center>
+
+<div id="pt1_branding"> </div>
+
+<div id="pt1_search_bar_container">
+
+<div id="pt1_search_bar">
+
+<div id="pt1_search_controls">
+
+<div id="pt1_search_bar_ajax_container"> <div id="content_container" align="left">
+
+
+
+<div>
+
+
+
+<div id="pt1_search_element_select" style="display: visible;">
+
+Search our statewide database of public notices
+
+<!-----------------
+
+<select id="pt1_search_dropdown" onChange="toggleSearch(this.value)">
+
+<option value="content">public notices</option>
+
+
+
+</select>
+
+--------------------->
+
+</div>
+
+<div id="pt1_search_element_bar">
+
+<div id="pt1_search_content" style="display: visible;">
+
+<div id="search_content_container" align="left">
+
+<form action="/pages/results_content/search_content" id="search_content_form" method="post">
+
+<input class="searchBarStringField" id="string" name="string" size="30" type="text" />
+
+<script type="text/javascript">
+
+var query_string = window.location.search;
+
+var matchingParameter = query_string.match(/\Wstring\W*=[^&]*/);
+
+if (matchingParameter) {
+
+var pair = matchingParameter[0].split(/=/);
+
+var value = pair[pair.length - 1];
+
+jQuery("input[name=string]").val(value);
+
+}
+
+</script>
+
+
+
+<input name="commit" type="submit" value="search" />
+
+
+
+</form>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div> </div>
+
+</div>
+
+<div id="pt1_login_controls">
+
+<div id="user_menu_container" align="left"><div class="userMenu">
+
+<ul id="user_menu_login_list">
+
+
+
+
+
+<li id="sign_in"><a href="/pages/login/?">sign in</a></li>
+
+
+
+
+
+
+
+</ul>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id="pt1_vertical_menu_container">
+
+<div id="content_container" align="left">
+
+
+
+<div>
+
+
+
+<div id="pt1_menu_content" class="pt1_menu">
+
+<div class="pt1_menu_group">
+
+<div class="pt1_heading"><a href="/"><font color="#FEFEFE">home</font></a></div>
+
+<div class="pt1_item_group">
+
+<div class="pt1_item"><a href="/pages/what_is_public_notice">What is Public Notice?</a></div>
+
+<div class="pt1_item"><a href="/pages/public_notice_news">Public Notice News</a></div>
+
+<div class="pt1_item"><a href="http://www.publicnoticeads.com" TARGET="_blank">Across America</a></div>
+
+<div class="pt1_item"><a href="/pages/my_content">Subscribe</a></div>
+
+<p />
+
+<div class="pt1_item"><a href="/pages/legal_organs">Georgia Legal Organs</a></div>
+
+<div class="pt1_item"><a href="/pages/about_us">About Us</a></div>
+
+<div class="pt1_item"><a href="/pages/business_directory_contact/search_results/add_tag?tag=gpa_member">Contact Us</a></div>
+
+<div class="pt1_item"><a style="font-weight: bold;" href="mailto:publicnotice@gapress.org">For technical support please contact publicnotice@<br />gapress.org</a></div>
+
+<p />
+
+<p />
+
+<br>
+
+<div class="pt1_item"><a href="/pages/member_import?widget_action=confirm_package&widget=purchase_package&package_id=4390&open=&">Legal Organs Sign In (publishers only)</a></div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id="pt1_vertical_content_container">
+
+
+
+<script>
+
+/*
+
+
+
+highlight v3
+
+
+
+Highlights arbitrary terms.
+
+
+
+<http://johannburkard.de/blog/programming/javascript/highlight-javascript-text-higlighting-jquery-plugin.html>
+
+
+
+MIT license.
+
+
+
+Johann Burkard
+
+<http://johannburkard.de>
+
+<mailto:jb@eaio.com>
+
+
+
+*/
+
+
+
+jQuery.fn.highlight = function(pat) {
+
+function innerHighlight(node, pat) {
+
+var skip = 0;
+
+if (node.nodeType == 3) {
+
+var pos = node.data.toUpperCase().indexOf(pat);
+
+if (pos >= 0) {
+
+var spannode = document.createElement('span');
+
+spannode.className = 'highlight';
+
+var middlebit = node.splitText(pos);
+
+var endbit = middlebit.splitText(pat.length);
+
+var middleclone = middlebit.cloneNode(true);
+
+spannode.appendChild(middleclone);
+
+middlebit.parentNode.replaceChild(spannode, middlebit);
+
+skip = 1;
+
+}
+
+}
+
+else if (node.nodeType == 1 && node.childNodes && !/(script|style)/i.test(node.tagName)) {
+
+for (var i = 0; i < node.childNodes.length; ++i) {
+
+i += innerHighlight(node.childNodes[i], pat);
+
+}
+
+}
+
+return skip;
+
+}
+
+return this.each(function() {
+
+innerHighlight(this, pat.toUpperCase());
+
+});
+
+};
+
+
+
+jQuery.fn.removeHighlight = function() {
+
+return this.find("span.highlight").each(function() {
+
+this.parentNode.firstChild.nodeName;
+
+with (this.parentNode) {
+
+replaceChild(this.firstChild, this);
+
+normalize();
+
+}
+
+}).end();
+
+};
+
+
+
+</script>
+
+
+
+<script type="text/javascript">
+
+
+
+$j(document).ready(function(){
+
+var match = window.location.toString().match(/phrase_match=[^&]*/)[0].split("=")[1]
+
+if (match.length > 0){
+
+$j(".story_item").highlight("");
+
+$j(".story_item_title a").each(function(){
+
+link = $j(this).attr("href");
+
+$j(this).attr("href", link + "phrase_match=");
+
+});
+
+}
+
+});
+
+</script>
+
+<style type="text/css">
+
+.story_item_title
+
+a {
+
+font-size: 16px;
+
+}
+
+.story_item {
+
+padding-bottom: 15px;
+
+}
+
+</style>
+
+<div id="push_container" align="left">
+
+<div style="" class="">
+
+
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350252/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Joanne Audige to Mortgage Electronic Registration Systems, Inc. as nominee for BSM ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:51-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350252'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350252" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350252/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350254/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+Because of a default in the payment of the indebtedness secured by a Security Deed executed by Dean E. Everett and Constance J. Everet...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:51-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350254'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350254" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350254/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350256/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+Because of a default in the payment of the indebtedness secured by a Security Deed executed by Gerry Dassey to Mortgage Electronic Reg...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:51-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350256'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350256" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350256/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350258/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Penelope Perez to Mortgage Electronic Registration Systems, Inc., as nominee for Ce...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:51-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350258'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350258" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350258/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350246/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Amanda Flores and Elvira Flores to Wells Fargo Home Mortgage, Inc. dated 4/9/2004 a...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:49-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350246'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350246" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350246/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350244/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Desiree M. Grante to Mortgage Electronic Registration Systems, Inc., as nominee for...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:49-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350244'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350244" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350244/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350248/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Terrence N. Brown to Wells Fargo Bank, N.A. dated 9/24/2010 and recorded in Deed Bo...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:49-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350248'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350248" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350248/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350250/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Hugh Bowie III and Pamela Renee Bowie to Mortgage Electronic Registration Systems, ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:49-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350250'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350250" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350250/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350242/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Josius Thomany, Jr. to Mortgage Electronic Registration Systems, Inc., as nominee f...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:47-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350242'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350242" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350242/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350238/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Nolan Chiasson and Mary C. Chiasson to Wells Fargo Bank, N.A. dated 11/23/2009 and ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:47-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350238'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350238" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350238/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350240/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Matthew K. Tousley and Dawn M. Tousley to Wells Fargo Bank, N.A. dated 11/9/2007 an...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:47-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350240'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350240" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350240/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350234/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+Because of default in the payment of the indebtedness, secured by a Security Deed executed by Nadine Arisma to Mortgage Electronic Registration...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:45-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350234'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350234" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350234/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350232/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Paul S. Moser and Barbara W. Bailey to Mortgage Electronic Registration Systems, In...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:45-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350232'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350232" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350232/article-NOTICE-OF-SALE--UNDER-POWER---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350236/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+Because of default in the payment of the indebtedness, secured by a Security Deed executed by Carlos Maldonado to National City Mortgage Co. da...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:45-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350236'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350236" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350236/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350230/article-NOTICE-OF-SALE-UNDER-POWER--GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Amanda R. Algiere to Mortgage Electronic Registration Systems, Inc. Countrywide Bank,...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:41:43-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350230'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350230" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350230/article-NOTICE-OF-SALE-UNDER-POWER--GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350226/article-NOTICE-OF-SALE-UNDER-POWER-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT?" class="entry-title">NOTICE OF SALE UNDER POWER STATE OF GEORGIA COUNTY OF GWINNETT</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+By virtue of the Power of Sale contained in that Deed to Secure Debt and Security Agreement executed and delivered by Ann & RC, LLC to...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:40:41-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350226'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350226" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350226/article-NOTICE-OF-SALE-UNDER-POWER-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22350204/article-NOTICE-OF-SALE-UNDER-POWER-GEORGIA--GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+By virtue of the power of sale contained in a Security Deed from Michael W. Henning and Debbie Denise Henning to JPMorgan Chase Bank, N.A. dated ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-25T01:37:47-05:00" class="story_item_date updated" format="">Apr 25, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22350204'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22350204" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22350204/article-NOTICE-OF-SALE-UNDER-POWER-GEORGIA--GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22284148/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+Because of default in the payment of the indebtedness, secured by a Security Deed executed by Yadira G Aguilar and Marvin J Espino Javier to Mo...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:48:41-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22284148'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22284148" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22284148/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22284150/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+Because of default in the payment of the indebtedness, secured by a Security Deed executed by Sara Bridgeforth to Mortgage Electronic Registrat...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:48:41-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22284150'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22284150" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22284150/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22284152/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE--UNDER-POWER?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+Because of a default in the payment of the indebtedness secured by a Security Deed executed by Michael J. Lewis and Catina M. Shaw to...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:48:41-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22284152'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22284152" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22284152/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE--UNDER-POWER?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22284146/article-NOTICE-OF-SALE-UNDER-POWER--GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Robyn A. Owens and Barbara N. Owens to Wells Fargo Home Mortgage, Inc dated 5/31/2002...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:48:38-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22284146'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22284146" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22284146/article-NOTICE-OF-SALE-UNDER-POWER--GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22284114/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+Because of default in the payment of the indebtedness, secured by a Security Deed executed by Sherry V. Morgan to Mortgage Electronic Registrat...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:46:57-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22284114'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22284114" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22284114/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22284084/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA--GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA
+
+GWINNETT COUNTY
+
+By virtue of the power of sale contained in the Security Deed by and between JAMES R. WAINWRIGHT and SALLY L. KNAPP-WAINWRIGHT (Borrower) to FIR...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:46:33-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22284084'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22284084" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22284084/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA--GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22284016/article-NOTICE-OF-SALE-UNDER-POWER-GEORGIA--GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+Because of default in the payment of the indebtedness, secured by a Security Deed executed by S M Ansarul Hoq and Jesmin Mowia a/k/a Mowla to Yvo...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:45:23-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22284016'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22284016" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22284016/article-NOTICE-OF-SALE-UNDER-POWER-GEORGIA--GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22283982/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+Under and ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:43:49-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22283982'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22283982" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22283982/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22283932/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+Because of default in the payment of the indebtedness, secured by a Security Deed executed by Earline Schell to Mortgage Electronic Registratio...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:42:15-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22283932'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22283932" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22283932/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22283930/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+By virtue of the power of sale contained in a Security Deed from Nichole Hunter and Mark Richardson to Mortgage Electronic Registration Systems...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:41:52-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22283930'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22283930" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22283930/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22283926/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+Under and ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:40:02-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22283926'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22283926" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22283926/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22283928/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+Under and ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-18T01:40:02-05:00" class="story_item_date updated" format="">Apr 18, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22283928'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22283928" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22283928/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217590/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA-?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA,</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+Gwinnett COUNTY
+
+By virtue of the power of sale contained in that certain Deed to Secure Debt/Security Deed dated September 2, 1994, executed by Lerae White a...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:39-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217590'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217590" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217590/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA-?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217592/article-NOTICE-OF-SALE-UNDER-POWER-GEORGIA-GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA
+
+GWINNETT COUNTY
+
+By virtue of a power of sale contained in that certain Deed to Secure Debt from MARY J. WALTERS to THOMAS A. JOHNSON dated October 18, 2006, and ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:39-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217592'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217592" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217592/article-NOTICE-OF-SALE-UNDER-POWER-GEORGIA-GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217596/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+Under an...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:39-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217596'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217596" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217596/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217594/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+Under an...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:39-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217594'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217594" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217594/article-NOTICE-OF-SALE--UNDER-POWER--GEORGIA---GWINNETT-COUNTY--THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217586/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER-IN-DEED-TO-SECURE-DEBT?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER IN DEED TO SECURE DEBT</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+IN DEED TO
+
+SECURE DEBT
+
+Under and by virtue of the power of sale contained in that certain Deed to Secure Debt from Kyungcheol Yi and K...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:38-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217586'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217586" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217586/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER-IN-DEED-TO-SECURE-DEBT?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217588/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE--UNDER-POWER-IN-DEED-TO--SECURE-DEBT?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER IN DEED TO SECURE DEBT</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+IN DEED TO
+
+SECURE DEBT
+
+Under and by virtue of the power of sale contained in that certain Deed to Secure Debt from Kyung Hwa Kim to ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:38-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217588'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217588" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217588/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE--UNDER-POWER-IN-DEED-TO--SECURE-DEBT?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217582/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER-IN-DEED-TO-SECURE-DEBT?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER IN DEED TO SECURE DEBT</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+IN DEED TO
+
+SECURE DEBT
+
+Under and by virtue of the power of sale contained in that certain Deed to Secure Debt from Joel Cantoran to Mo...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:37-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217582'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217582" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217582/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER-IN-DEED-TO-SECURE-DEBT?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217584/article-NOTICE-OF-SALE-UNDER-POWER?" class="entry-title">NOTICE OF SALE UNDER POWER</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+By virtue of the power of sale contained in a Deed to Secure Debt by GARRY GWALTNEY to Mortgage Electronic Registration Systems, Inc. (MERS) as nominee for FIRST OPTION M...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:37-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217584'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217584" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217584/article-NOTICE-OF-SALE-UNDER-POWER?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217578/article-Notice-of-Sale?" class="entry-title">Notice of Sale</a></strong><br />
+
+<span class="story_item_teaser entry-summary">Notice of Sale
+
+Under Power.
+
+State of Georgia,
+
+County of GWINNETT.
+
+Under and by virtue of the Power of Sale contained in a Deed to Secure Debt given by PHYLLIS L HOLLIMAN to MORTGAGE ELECTRONIC REG...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:36-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217578'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217578" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217578/article-Notice-of-Sale?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217580/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+Because of a default in the payment of the indebtedness secured by that certain Security Deed, dated August 25, 2006, executed by Darr...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:36-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217580'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217580" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217580/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217576/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER-IN-DEED-TO-SECURE-DEBT?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER IN DEED TO SECURE DEBT</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+IN DEED TO
+
+SECURE DEBT
+
+Under and by virtue of the power of sale contained in that certain Deed to Secure Debt from Adel E. Hogsed and ...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:36-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217576'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217576" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217576/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER-IN-DEED-TO-SECURE-DEBT?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217572/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER-IN-DEED-TO-SECURE-DEBT?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER IN DEED TO SECURE DEBT</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+IN DEED TO
+
+SECURE DEBT
+
+Under and by virtue of the power of sale contained in that certain Deed to Secure Debt from Fnu Rony to Bank of...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:35-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217572'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217572" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217572/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE-UNDER-POWER-IN-DEED-TO-SECURE-DEBT?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217574/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE--UNDER-POWER?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+By virtue of the power of sale contained in that certain Deed to Secure Debt from Force Cheerleading, Inc., to The Business Developme...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:35-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217574'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217574" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217574/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE--UNDER-POWER?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217570/article-NOTICE-OF-SALE-UNDER-POWER?" class="entry-title">NOTICE OF SALE UNDER POWER</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+By virtue of the power of sale contained in a Deed to Secure Debt by MARIA MIDEIROS to Mortgage Electronic Registration Systems, Inc. (MERS) as nominee for America`s Whol...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:34-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217570'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217570" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217570/article-NOTICE-OF-SALE-UNDER-POWER?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217568/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+Because of default in the payment of the indebtedness, secured by a Security Deed executed by Althea A Knight and Joshua D Knight to Mortgage E...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:34-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217568'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217568" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217568/article-NOTICE-OF-SALE--UNDER-POWER-GEORGIA---GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217566/article-Notice-of-Sale?" class="entry-title">Notice of Sale</a></strong><br />
+
+<span class="story_item_teaser entry-summary">Notice of Sale
+
+Under Power.
+
+State of Georgia,
+
+County of GWINNETT.
+
+Under and by virtue of the Power of Sale contained in a Deed to Secure Debt given by AUGUSTA TWITTY to DAMLA CORPORATION D/8/A ALP...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:33-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217566'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217566" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217566/article-Notice-of-Sale?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217564/article-Notice-of-Sale?" class="entry-title">Notice of Sale</a></strong><br />
+
+<span class="story_item_teaser entry-summary">Notice of Sale
+
+Under Power.
+
+State of Georgia,
+
+County of GWINNETT.
+
+Under and by virtue of the Power of Sale contained in a Deed to Secure Debt given by KEVIN F OBRIEN AND LINDA L OBRIEN to MORTGAGE...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:33-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217564'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217564" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217564/article-Notice-of-Sale?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217560/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE--UNDER-POWER-IN-DEED-TO--SECURE-DEBT?" class="entry-title">STATE OF GEORGIA COUNTY OF GWINNETT NOTICE OF SALE UNDER POWER IN DEED TO SECURE DEBT</a></strong><br />
+
+<span class="story_item_teaser entry-summary">STATE OF GEORGIA
+
+COUNTY OF GWINNETT
+
+NOTICE OF SALE
+
+UNDER POWER
+
+IN DEED TO
+
+SECURE DEBT
+
+Under and by virtue of the power of sale contained in that certain Deed to Secure Debt from Letanya Swearinge...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:33-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217560'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217560" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217560/article-STATE-OF-GEORGIA-COUNTY-OF-GWINNETT-NOTICE-OF-SALE--UNDER-POWER-IN-DEED-TO--SECURE-DEBT?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217562/article-NOTICE-OF-SALE-UNDER-POWER--GWINNETT-COUNTY?" class="entry-title">NOTICE OF SALE UNDER POWER, GWINNETT COUNTY</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER,
+
+GWINNETT COUNTY
+
+Pursuant to the Power of Sale contained in a Security Deed given by Diane Hodge and Lawrence G. Hodge to Wells Fargo Bank, N.A. dated 2/9/2011 and record...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:33-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217562'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217562" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217562/article-NOTICE-OF-SALE-UNDER-POWER--GWINNETT-COUNTY?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="even">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217556/article-Notice-of-Sale?" class="entry-title">Notice of Sale</a></strong><br />
+
+<span class="story_item_teaser entry-summary">Notice of Sale
+
+Under Power.
+
+State of Georgia,
+
+County of GWINNETT.
+
+Under and by virtue of the Power of Sale contained in a Deed to Secure Debt given by IDALIA LOPEZ AND EDWIN BONILLA to SOUTHLAKE MO...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:31-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217556'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217556" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217556/article-Notice-of-Sale?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="odd">
+
+
+
+<div class="story_item hnews hentry item">
+
+
+
+
+
+<strong class="story_item_title"><a href="/view/full_story/22217558/article-NOTICE-OF-SALE-UNDER-POWER-GEORGIA--GWINNETT-COUNTY-THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?" class="entry-title">NOTICE OF SALE UNDER POWER GEORGIA, GWINNETT COUNTY THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.</a></strong><br />
+
+<span class="story_item_teaser entry-summary">NOTICE OF SALE
+
+UNDER POWER
+
+GEORGIA,
+
+GWINNETT COUNTY
+
+THIS LAW FIRM IS ACTING AS A DEBT COLLECTOR ATTEMPTING TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+Under and by vi...</span><br />
+
+<span class="story_item_info"><div class="signature_line"><span title="2013-04-11T01:40:31-05:00" class="story_item_date updated" format="">Apr 11, 2013</span>&nbsp;|&nbsp;<a href="#" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/22217558'}); return false;"><span style="position: relative;"><img alt="email to a friend" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="email to a friend" /></span></a><span id="email_content_message_22217558" class="signature_email_message"></span></div>
+
+
+
+
+
+
+
+<div class="story_item_author" style="display:none;">
+
+<span class="source-org author vcard" style="display: none;">
+
+<span class="org fn">Georgia Press Association Public Notice Website</span>
+
+</span>
+
+</div>
+
+
+
+
+
+<span id="copyright-container" style="display:none;">
+
+<a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2013 Georgia Press Association Public Notice Website. All rights reserved.</a>
+
+</span>
+
+
+
+<a class="story_item_full_story_link" href="/view/full_story/22217558/article-NOTICE-OF-SALE-UNDER-POWER-GEORGIA--GWINNETT-COUNTY-THIS-LAW-FIRM-IS-ACTING-AS-A-DEBT-COLLECTOR-ATTEMPTING-TO-COLLECT-A-DEBT--ANY-INFORMATION-OBTAINED-WILL-BE-USED-FOR-THAT-PURPOSE-?">full story</a></span>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="pagination"><span class="disabled prev_page">&laquo; Previous</span> <span class="current">1</span> <a href="/pages/results_content/push?rel=next&amp;x_page=2&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">2</a> <a href="/pages/results_content/push?rel=&amp;x_page=3&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">3</a> <a href="/pages/results_content/push?rel=&amp;x_page=4&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">4</a> <a href="/pages/results_content/push?rel=&amp;x_page=5&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">5</a> <a href="/pages/results_content/push?rel=&amp;x_page=6&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">6</a> <a href="/pages/results_content/push?rel=&amp;x_page=7&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">7</a> <a href="/pages/results_content/push?rel=&amp;x_page=8&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">8</a> <a href="/pages/results_content/push?rel=&amp;x_page=9&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">9</a> <span class="gap">&hellip;</span> <a href="/pages/results_content/push?rel=&amp;x_page=17&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">17</a> <a href="/pages/results_content/push?rel=&amp;x_page=18&amp;class=&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">18</a> <a href="/pages/results_content/push?rel=next&amp;x_page=2&amp;class=next_page&amp;per_page=50&search_content[category]=gpn11&search_content[max_date]=2013-04-28&search_content[county]=Gwinnett+County&search_content[page_label]=results_content&search_content[min_date]=2013-04-01&search_content[phrase_match]=&search_content[string]=search_category_gpn11+search_county_gwinnett">Next &raquo;</a></div>
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div id="pt1_footer">
+
+<div id="content_container" align="left">
+
+
+
+<div>
+
+
+
+<div id="pt1_footer">
+
+<div id="site_footer_container" align="left"> <div align="center">
+
+
+
+<span class="footnote">software copyright &copy; 2012 Radiate Media
+
+content copyright &copy; 2012 GPA public notice site<br>The public notice database on this site is not a substitute for the official publication that is required by law. The legal notices posted on this site are for reference only. Only the legal notices published in the official legal organ newspaper of the county are official per O.C.G.A. § 9-13-140. et seq.</span>
+
+
+
+<br />
+
+<a href="#1" onclick="newWindow = window.open('/help/privacy_policy', 'help', 'width=650,height=700,menubar=1,scrollbars=1,toolbar=0,resizable=1');
+
+newWindow.focus;; return false;"><span class="link">read our privacy policy</span></a>
+
+<br />
+
+<span class="footnote">GPA public notice site is in Atlanta, GA </span> </div> <p /></div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</center>
+
+</div>
+
+<script type="text/javascript">
+
+if (typeof(_gat) == 'undefined') {
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+}
+
+</script>
+
+<script type="text/javascript">
+
+
+
+var _gaq = _gaq || [];
+
+_gaq.push(['_setAccount', 'UA-8641011-47']);
+
+_gaq.push(['_trackPageview']);
+
+
+
+(function() {
+
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+})();
+
+
+
+</script><script type="text/javascript">
+
+try {
+
+var matchbinPageTracker = _gat._getTracker("UA-2581399-1");
+
+
+
+
+
+matchbinPageTracker._trackPageview();
+
+} catch(e) {
+
+
+
+}
+
+
+
+try {
+
+
+
+matchbinReloadAds = function() {
+
+var allFrames = $$('iframe');
+
+for (var i = 0; i < allFrames.length; i++) {
+
+try {
+
+var frame = allFrames[i];
+
+//change the src of the iframe to reload ad
+
+var src = frame.src;
+
+var new_src = src.replace(/&random_for_refresh.*$/, '') + "&random_for_refresh=" + Math.random();
+
+
+
+if (!src.match(/ads.radiatemedia.com/)) {
+
+next;
+
+}
+
+
+
+if (Prototype.Browser.IE) {
+
+//replace the iframe to avoid browser history problems
+
+var new_iframe = frame.cloneNode(true);
+
+//new_iframe.id = '';
+
+var new_src = src.replace(/&random_for_refresh.*$/, '') + "&random_for_refresh=" + Math.random();
+
+new_iframe.src = new_src;
+
+//prevent flicker when ads are refreshed
+
+if (parseInt(navigator.userAgent.substring(navigator.userAgent.indexOf("MSIE")+5)) >= 8) {
+
+$(new_iframe).observe('load', (function(event) {
+
+new_iframe.style.visibility = '';
+
+new_iframe.style.position = '';
+
+new_iframe.stopObserving();
+
+if (frame.parentNode) {
+
+frame.parentNode.replaceChild(new_iframe, frame);
+
+}
+
+new_iframe.id = frame.id;
+
+}).bind(this));
+
+new_iframe.style.visibility = 'hidden';
+
+new_iframe.style.position = 'absolute';
+
+frame.parentNode.appendChild(new_iframe);
+
+} else {
+
+frame.parentNode.replaceChild(new_iframe, frame);
+
+frame.parentNode.removeChild(frame);
+
+}
+
+} else {
+
+frame.src = new_src;
+
+}
+
+} catch (e) {
+
+
+
+}
+
+}
+
+}
+
+
+
+matchbinAjaxHook = (function(url) {
+
+try {
+
+if (url && url.match && url.match(/pages|default|comment/) && !url.match(/account|noreload|ad_frame/)) {
+
+matchbinPageTracker._trackPageview(url);
+
+if (window.pageTracker) {
+
+window.pageTracker._trackPageview(url);
+
+}
+
+if (typeof(window.ajaxAnalyticsHook) == 'function') {
+
+window.ajaxAnalyticsHook(url);
+
+}
+
+matchbinReloadAds();
+
+}
+
+} catch (e) {
+
+
+
+}
+
+}).bind(this);
+
+} catch(e) {
+
+
+
+}
+
+</script>
+
+<script type="text/javascript">
+
+var showTynt = (("ht" + "tp:") == document.location.protocol);
+
+if (showTynt) {
+
+var tyntVariables = {"ap":"#{Read more: }"};
+
+document.write(unescape("%3Cscript src='ht" + "tp://tcr.tynt.com/javascripts/Tracer.js?user=d56qUQzfGr34Onadbi-bpO&amp;su=0&amp;st=1' type='text/javascript'%3E%3C/script%3E"));
+
+}
+
+</script>
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+
+NREUMQ.push(["load",new Date().getTime()]);
+
+var e=document.createElement("script");
+
+e.type="text/javascript";
+
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+
+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+
+document.body.appendChild(e);
+
+if(NREUMQ.a)NREUMQ.a();
+
+};
+
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+
+};
+
+NREUMQ.push(["nrfj","beacon-4.newrelic.com","0a3acb3eea","14576","cg0IQEpbX1VUFBtbXlwPE1pRQEoWQQdTXUIeCwhQXUw=",0,441,new Date().getTime(),"","","","",""]);</script></body>
+
+</html>
